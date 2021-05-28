@@ -130,7 +130,7 @@ const employee_2 = new Employee({
 // app.delete('/', (req, res) => {
 //     Employee.deleteOne({ lName: 'Ali' }, (err) => {
 //         if (!err) {
-//             res.send('succesfully deleted')
+//             res.send('Ali Employee's Data removed Succesfully')
 //         } else {
 //             res.send(err)
 //         }
